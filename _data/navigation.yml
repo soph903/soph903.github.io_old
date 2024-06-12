@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Research"
-    url: "research.md"
+    url: "files/research.md"
   - title: "CV"
     url: "files/CV_ChiaWenChen.pdf"
   - title: "Teaching"
