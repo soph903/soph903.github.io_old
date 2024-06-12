@@ -114,13 +114,13 @@ analytics:
 author:
   name             : "Chia Wen Chen"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Associate Research Fellow, \nResearch Center for Humanities and Social Sciences \nAcademia Sinica"
+  bio              : "Associate Research Fellow, Research Center for Humanities and Social Sciences, Academia Sinica"
   location         : "128 Academia Road, Section 2, Nankang, Taipei 11529, Taiwan"
   email            : "cwzchen@gate.sinica.edu.tw"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "cwzchen@gate.sinica.edu.tw"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
