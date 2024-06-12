@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "zh-US"
@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Chia-Wen Chen"
 description              : "where does description goooooooo"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://soph903.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -114,9 +114,9 @@ analytics:
 author:
   name             : "Chia Wen Chen"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Associate Research Fellow (with tenure), Research Center for Humanities and Social Sciences, Academia Sinica"
+  bio              : "Associate Research Fellow, \nResearch Center for Humanities and Social Sciences \nAcademia Sinica"
   location         : "128 Academia Road, Section 2, Nankang, Taipei 11529, Taiwan"
-  email            :
+  email            : "cwzchen@gate.sinica.edu.tw"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
