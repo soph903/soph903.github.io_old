@@ -112,10 +112,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Chia Wen Chen"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Associate Research Fellow (with tenure), Research Center for Humanities and Social Sciences, Academia Sinica"
+  location         : "128 Academia Road, Section 2, Nankang, Taipei 11529, Taiwan"
   email            :
   links:
     - label: "Email"
