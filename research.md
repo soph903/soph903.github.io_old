@@ -1,6 +1,7 @@
 ---
 layout: page
-author_profile: true
+permalink: /research/index.html
+title: Research
 ---
 
 # Research interests:
