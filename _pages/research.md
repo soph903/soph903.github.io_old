@@ -1,12 +1,8 @@
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
+---
+layout: page
+title: Research
+author_profile: true
+---
 
 # Research interests:
 
