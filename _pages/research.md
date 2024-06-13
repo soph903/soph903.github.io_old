@@ -3,7 +3,6 @@ layout: page
 title: Research
 author_profile: true
 ---
-
 # Research interests:
 
 Industrial Organization, Regulation and Antitrust, Applied Econometrics
