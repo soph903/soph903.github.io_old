@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Research
-author_profile: true
+permalink: /research/
+title: "Research"
+toc: "true"
+author_profile: "true"
 ---
 # Research interests:
 
