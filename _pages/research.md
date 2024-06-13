@@ -1,10 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
-toc: "true"
-author_profile: "true"
 ---
-## Research
 
 ## Research interests:
 
