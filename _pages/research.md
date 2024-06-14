@@ -3,12 +3,12 @@ permalink: /research/
 title: "Research"
 ---
 
-## Research interests:
+### Research interests
 
 Industrial Organization, Regulation and Antitrust, Applied Econometrics
 
 
-## Publications
+### Publications
 
 "Performance Feedback in a Group Contest: A Field Experiment on Electricity Conservation," (with Josie I Chen and Min-Jen Lin),  Journal of Economics & Management Strategy, forthcoming. Paper
 
@@ -20,7 +20,7 @@ Industrial Organization, Regulation and Antitrust, Applied Econometrics
 
  
 
-## 中文期刊
+### 中文期刊
 
 陳嘉雯 (2021) "民營電廠在長期合約中的競爭關係：以台灣和平電廠輸電塔倒塌事件為例", 經濟論文叢刊,  49(4), pp. 533-565. Paper
 
@@ -32,7 +32,7 @@ Industrial Organization, Regulation and Antitrust, Applied Econometrics
 
  
 
-## Working papers and work in progress:
+### Working papers and work in progress:
 
 "Incentivizing Demand Response Using Auctions: Evidence from Steel Producers in Taiwan" (with Jian-Da Zhu) Paper
 
