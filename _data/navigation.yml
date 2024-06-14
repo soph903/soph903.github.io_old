@@ -4,8 +4,8 @@ main:
     url: "/research/"
   - title: "CV"
     url: "files/CV_ChiaWenChen.pdf"
-  - title: "Teaching"
-    url: "/teaching/"
+  # - title: "Teaching"
+  #   url: "/teaching/"
   - title: "Hiring"
     url: "/hiring/"
 
