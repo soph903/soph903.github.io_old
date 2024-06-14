@@ -32,7 +32,7 @@ Industrial Organization, Regulation and Antitrust, Applied Econometrics
 
  
 
-### Working papers and work in progress:
+### Working papers and work in progress
 
 "Incentivizing Demand Response Using Auctions: Evidence from Steel Producers in Taiwan" (with Jian-Da Zhu) Paper
 
