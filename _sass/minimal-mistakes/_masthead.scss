@@ -69,7 +69,7 @@
     margin-left: 0;
 
     @include breakpoint($small) {
-      float: left;
+      float: right;
     }
   }
 
@@ -85,6 +85,7 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  float: right;
 
   &--lg {
     padding-right: 2em;
