@@ -1,6 +1,6 @@
 ---
-permalink: /research/
-title: "Research"
+permalink: /hiring/
+title: "Hiring"
 ---
 
 Add sth ... 
