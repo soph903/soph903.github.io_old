@@ -6,6 +6,8 @@ main:
     url: "files/CV_ChiaWenChen.pdf"
   - title: "Teaching"
     url: "/teaching/"
+  - title: "Hiring"
+    url: "/hiring/"
 
     
   # - title: "Quick-Start Guide"
