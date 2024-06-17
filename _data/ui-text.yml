@@ -205,7 +205,7 @@ tr: &DEFAULT_TR
   email_label                : "E-posta"
   recent_posts               : "Son yazılar"
   undefined_wpm              : "_config.yml dosyasında tanımlanmamış words_per_minute parametresi"
-  comment_form_info          : "Email adresiniz gösterilmeyecektir. Zorunlu alanlar işaretlenmiştir"
+  comment_form_info          : "   adresiniz gösterilmeyecektir. Zorunlu alanlar işaretlenmiştir"
   comment_form_comment_label : "Yorumunuz"
   comment_form_md_info       : "Markdown desteklenmektedir."
   comment_form_name_label    : "Adınız"

@@ -20,11 +20,13 @@ justify-content: flex-start;
 ```
 
 default: flex-end, the navi menu btns locate at the top right of the page
+
 changed to flex-start such that the btns locats at the top left
 
 
 ### email
 
 config.yml -> email
-changing the label of the email attribute.
+
+changing the label of the email attribute
 
