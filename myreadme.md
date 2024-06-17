@@ -25,6 +25,6 @@ changed to flex-start such that the btns locats at the top left
 
 ### email
 
-ui-text.yml -> email
-changing the display text of the email attribute.
+config.yml -> email
+changing the label of the email attribute.
 
