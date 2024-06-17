@@ -116,7 +116,7 @@ author:
   avatar           : "/image/image002.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Associate Research Fellow, <br/>Research Center for Humanities and Social Sciences, <br/>Academia Sinica"
   location         : "Taipei, Taiwan"
-  email            : [cwzchen@gate.sinica.edu.tw](cwzchen@gate.sinica.edu.tw)
+  email            : "cwzchen@gate.sinica.edu.tw"
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
